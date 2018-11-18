@@ -1,0 +1,5 @@
+{
+    "require": {
+        "erikvdven/php-gif": "1.0.*"
+    }
+}

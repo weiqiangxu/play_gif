@@ -1,0 +1,41 @@
+[
+    {
+        "name": "erikvdven/php-gif",
+        "version": "v1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ErikvdVen/php-gif.git",
+            "reference": "d8edcf37d20f52e757a7640f22d86efdc4562913"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ErikvdVen/php-gif/zipball/d8edcf37d20f52e757a7640f22d86efdc4562913",
+            "reference": "d8edcf37d20f52e757a7640f22d86efdc4562913",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2016-03-15T15:47:08+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ErikvdVen\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Erik van de Ven",
+                "email": "info@only-media.nl",
+                "homepage": "http://erikvandeven.com/"
+            }
+        ],
+        "homepage": "https://github.com/ErikvdVen/php-gif"
+    }
+]
